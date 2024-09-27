@@ -4,7 +4,7 @@ This is the open dataset from freeCodeCamp's 2021 survey of more than 18,000 dev
 
 ## The data
 
-You can [read more about our 2018 survey here](https://www.freecodecamp.org/news/the-2018-new-coder-survey-31-000-people-told-us-how-theyre-learning-to-code-and-getting-dev-jobs-e10feb9ed419/).
+You can [read more about our 2021 survey here](https://www.freecodecamp.org/news/2021-new-coder-survey-18000-people-share-how-theyre-learning-to-code/).
 
 As of December 7, 2021, only the raw CSV dump has been uploaded (exported directly from Google Forms, which we used to conduct the survey).
 
