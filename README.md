@@ -1,9 +1,9 @@
 ## Learning the Code - Patterns in Learning & Career Outcomes
 
 ### Team 8 - Members & Contributions
-- **Jie Luo**: Unsupervised Learning (Objective 3)
-- **Kittnipatt Buranasiri**: Supervised Learning (Objective 2)
-- **Lydia Schrandt**: Supervised Learning (Objective 1)
+- **Jie Luo** (jiemluo@umich.edu): Unsupervised Learning (Objective 3)
+- **Kittnipatt Buranasiri** (kburana@umich.edu): Supervised Learning (Objective 2)
+- **Lydia Schrandt** (schrandt@umich.edu): Supervised Learning (Objective 1)
 Besides the list above, all other aspects will be collaborative efforts among the team.
 
 ### Project Overview
