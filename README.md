@@ -1,4 +1,4 @@
-# Capstone Project: Learning the Code - Patterns in Learning & Career Outcomes
+# Learning the Code - Patterns in Learning & Career Outcomes
 
 ## Team 8 - Members & Contributions
 - **Jie Luo**: Unsupervised Learning (Objective 3)
