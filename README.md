@@ -6,7 +6,7 @@
 - **Lydia Schrandt**: Supervised Learning (Objective 1)
 Besides the list above, all other aspects will be collaborative efforts among the team.
 
-### Project Overview
+<h3 style="color:blue;">Project Overview</h3>
 This project analyzes the **2021 New Coder Survey** dataset from freeCodeCamp to understand the motivations, learning methods, and career outcomes of new coders. By utilizing both supervised and unsupervised machine learning approaches, we aim to uncover factors influencing job placement, salary expectations, and learning preferences. Key challenges involve preprocessing natural language data and understanding the performance differences between models implemented using Scikit-learn.
 
 ### Project Objectives
