@@ -23,9 +23,9 @@ The dataset is sourced from freeCodeCamp's [2021 New Coder Survey](https://githu
 #### Key Files:
 - **1.Data_Exploration.ipynb**: Data exploration and preprocessing, including cleaning, handling missing values, and feature engineering. Outputs the final processed dataset (`df_final.csv`).
 - **df_final.csv**: The cleaned and preprocessed dataset, ready for modeling.
-- **2_Supervised_Learning_Objective_1.ipynb**: Multi-class prediction of job status (Objective 1).
-- **3_Supervised_Learning_Objective_2.ipynb**: Multi-class prediction of job expectations (Objective 2).
-- **4_Unsupervised_Learning.ipynb**: Clustering analysis to identify patterns among survey respondents (Objective 3).
+- **2.Supervised_Learning_Objective_1.ipynb**: Multi-class prediction of job status (Objective 1).
+- **3.Supervised_Learning_Objective_2.ipynb**: Multi-class prediction of job expectations (Objective 2).
+- **4.Unsupervised_Learning.ipynb**: Clustering analysis to identify patterns among survey respondents (Objective 3).
 
 ### How to Run the Code
 1. Clone this repository to your local machine.
