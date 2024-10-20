@@ -29,9 +29,8 @@ The dataset is sourced from freeCodeCamp's [2021 New Coder Survey](https://githu
 
 ### How to Run the Code
 1. Clone this repository to your local machine.
-2. Install the required libraries using the `requirements.txt` (or use `pip install -r requirements.txt`).
-3. Start by running the `1.Data_Exploration.ipynb` notebook to preprocess the raw dataset.
-4. Move on to the relevant notebooks (`2_Supervised_Learning_Objective_1.ipynb`, `3_Supervised_Learning_Objective_2.ipynb`, and `4_Unsupervised_Learning.ipynb`) for each part of the analysis.
+2. Start by running the `1.Data_Exploration.ipynb` notebook to preprocess the raw dataset.
+3. Move on to the relevant notebooks (`2_Supervised_Learning_Objective_1.ipynb`, `3_Supervised_Learning_Objective_2.ipynb`, and `4_Unsupervised_Learning.ipynb`) for each part of the analysis.
 
 ### License
 This project is licensed under the MIT License.
