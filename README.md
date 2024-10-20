@@ -1,9 +1,10 @@
 ## Learning the Code - Patterns in Learning & Career Outcomes
 
 ### Team 8 - Members & Contributions
-- **Jie Luo** (jiemluo@umich.edu): Unsupervised Learning (Objective 3)
-- **Kittnipatt Buranasiri** (kburana@umich.edu): Supervised Learning (Objective 2)
-- **Lydia Schrandt** (schrandt@umich.edu): Supervised Learning (Objective 1)
+- **Jie Luo** (jiemluo@umich.edu): Unsupervised Learning (Objective 3), Data cleaning and preprocessing, Feature Engineering
+- **Kittnipatt Buranasiri** (kburana@umich.edu): Supervised Learning (Objective 2), EDA, Ethical Considerations
+- **Lydia Schrandt** (schrandt@umich.edu): Supervised Learning (Objective 1), EDA, Report Final Edit
+
 Besides the list above, all other aspects will be collaborative efforts among the team.
 
 ### Project Overview
