@@ -27,9 +27,7 @@ The dataset is sourced from freeCodeCamp's [2021 New Coder Survey](https://githu
 - **3.Supervised_Learning_Objective_2.ipynb**: Multi-class prediction of job expectations (Objective 2).
 - **4.Unsupervised_Learning.ipynb**: Clustering analysis to identify patterns among survey respondents (Objective 3).
 
-<b>PDF Version of Notebooks</b>
-
-For your convenience, we have also exported the Jupyter notebooks (ipynb files) as PDF files and included them in the repository. However, please note that when printing these notebooks to PDF, especially for Objective 1 and Objective 2, some cells, outputs (such as plots, tables, and data), do not render as expected in the PDF format. Therefore, we highly recommend using the ipynb files as the main files for reviewing and grading, as they contain all outputs and visualizations correctly displayed. The PDFs are provided only as supplementary references.
+<b>PDF Version of Notebooks</b>: For your convenience, we have also exported the Jupyter notebooks (ipynb files) as PDF files and included them in the repository. However, please note that when printing these notebooks to PDF, especially for Objective 1 and Objective 2, some cells, outputs (such as plots, tables, and data), do not render as expected in the PDF format. Therefore, we highly recommend using the ipynb files as the main files for reviewing and grading, as they contain all outputs and visualizations correctly displayed. The PDFs are provided only as supplementary references.
 
 ### How to Run the Code
 1. Clone this repository to your local machine.
